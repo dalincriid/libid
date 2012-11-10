@@ -1,5 +1,8 @@
-CMakeCache.txt
-CMakeFiles
-Makefile
-cmake_install.cmake
-install_manifest.txt
+id_small_sh
+a.out
+*.[oa]
+*.sw[op]
+libid/*.[oa]
+libid/*.sw[op]
+vgd.log
+.__afs*
