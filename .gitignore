@@ -1,8 +1,5 @@
-id_small_sh
 a.out
 *.[oa]
 *.sw[op]
-libid/*.[oa]
-libid/*.sw[op]
 vgd.log
 .__afs*
